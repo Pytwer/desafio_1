@@ -5,6 +5,6 @@ while (chute != numero) {
     if (chute == numero) {
     break; 
     } else {
-        alert('tente novamente.')
+        alert('tente novamente.');
     }
 }

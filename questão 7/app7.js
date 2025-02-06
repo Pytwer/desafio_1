@@ -3,8 +3,8 @@ let num2 = 2;
 
 
 if (num1 == num2){
-    console.log("Os números são iguais")
+    console.log("Os números são iguais");
 }
 else{
-    console.log("Os números são diferentes")
+    console.log("Os números são diferentes");
 }
